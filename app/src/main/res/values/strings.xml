@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string-array name="convertibleUnits">
+        <item>Metre</item>
+        <item>Kilogram</item>
+        <item>Celsius</item>
+    </string-array>
+    <string name="conversion_error">Please select the correct conversion icon.</string>
+    <string name="missing_value_error">Please enter a value to convert.</string>
+</resources>
